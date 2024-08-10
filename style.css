@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #3f2424;
+    background: url(saiful2.jpg) ;
 }
 .container{
     position: relative;
@@ -19,7 +19,7 @@ body{
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(230, 23, 23, 0.1);
     border: 2x solid rgba(255, 255, 255, 0.25);
     box-shadow: 0px 0px 39px rgba(0, 0, 0, 0.9);
     display: flex;
